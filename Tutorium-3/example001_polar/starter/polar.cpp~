@@ -1,0 +1,17 @@
+//
+//  intfloor.cpp
+//
+//  Einfuehrung in die Programmierung II - JKU Linz
+//
+//  Created by Stefan Janecek on 10.03.14.
+//  Copyright (c) 2013 Stefan Janecek. All rights reserved.
+//
+
+#include "intfloor.hpp"
+
+int intfloor(double x, int * ierr) {
+	//@@
+	//@@ please implement your version of intfloor below here!
+	//@@
+
+}
